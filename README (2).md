@@ -1,6 +1,6 @@
 # 🐍 Python Learning Journey
 
-A personal log of my Python learning progress — built through daily practice, problem-solving, and hands-on mini projects.
+A personal log of my Python learning progress - built through daily practice, problem-solving, and hands-on mini projects.
 
 ---
 
