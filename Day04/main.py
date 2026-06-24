@@ -1,4 +1,4 @@
-# Day 3: Type Casting & Arithmetic Operators
+# Day 4: Type Casting & Arithmetic Operators
 
 # Problem 1:
 # Take two numbers from the user.
