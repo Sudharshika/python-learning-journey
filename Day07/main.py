@@ -1,4 +1,4 @@
-# Day 6: Introduction to if Statement
+# Day 7: Introduction to if Statement
 
 # Problem 1:
 # Take a number from the user.
