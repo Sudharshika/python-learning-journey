@@ -1,5 +1,5 @@
 
-# Day 4: Relational & Logical Thinking
+# Day 5: Relational & Logical Thinking
 
 # Problem 1:
 # Take two numbers from the user.
