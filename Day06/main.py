@@ -1,5 +1,5 @@
 
-# Day 5: Assignment, Precedence & Input Practice
+# Day 6: Assignment, Precedence & Input Practice
 
 # Problem 1:
 # Create a variable with an initial value of 10.
